@@ -2,8 +2,8 @@
 doing it for fun
 ```markdown
 # soundsgoodman
-repo https://github.com/Sruthin1234/soundsgoodman/blob/main/index.xml
-
+repo [https://github.com/Sruthin1234/soundsgoodman/blob/main/index.xml
+](https://raw.githubusercontent.com/Sruthin1234/soundsgoodman/refs/heads/main/index.xml)
 Collection of REAPER (ReaScript) Lua scripts and utilities.
 
 About
