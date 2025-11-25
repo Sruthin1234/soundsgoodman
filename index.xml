@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="soundsgoodman" commit="">
+  <category name="Example">
+    <reapack name="Sruthin1234_Hello world.lua" type="script" desc="Hello world">
+      <metadata>
+        <description><![CDATA[
+This is an example package file for the soundsgoodman repository. It installs a ReaScript that prints "Hello World!" in REAPER's scripting console.
+
+Replace this description with your package's documentation. Markdown-like formatting is supported in ReaPack's UI.
+]]></description>
+      </metadata>
+      <version name="1.0" author="Sruthin1234" time="2025-11-25T00:00:00Z">
+        <source main="main">https://github.com/Sruthin1234/soundsgoodman/raw/master/Example/Hello%20world.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <metadata>
+    <description><![CDATA[
+ReaPack index for the soundsgoodman repository.
+
+Replace this repository description (shown in ReaPack's "About this repository") with your own README or documentation text.
+]]></description>
+  </metadata>
+</index>
