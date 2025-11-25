@@ -20,12 +20,7 @@ Install (manual)
    - Linux: ~/.config/REAPER/Scripts/
 4. After loading, the script will appear in the Action List — assign a shortcut or run it from there.
 
-Files
------
-- ucify/add-meta-marker-and-rename-smart-from-ucsify-sgm.lua
-  (Add META marker and rename smart from ucsify SGM — uses clipboard Filename="..." entry)
-- ucify/inject-metadata-fields-sgm.lua
-  (UCS Inject Render Metadata — pre-populates project render metadata keys)
+
 
 License
 -------
