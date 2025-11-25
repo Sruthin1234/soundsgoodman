@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="soundsgoodman" commit="">
+<index version="1" name="soundsgoodman" commit="fd913202ce55bc7a828dfab0c51177ba380d8785">
   <category name="Example">
     <reapack name="Sruthin1234_Hello world.lua" type="script" desc="Hello world">
       <metadata>
@@ -10,13 +10,43 @@ Replace this description with your package's documentation. Markdown-like format
 ]]></description>
       </metadata>
       <version name="1.0" author="Sruthin1234" time="2025-11-25T00:00:00Z">
-        <source main="main">https://github.com/Sruthin1234/soundsgoodman/raw/master/Example/Hello%20world.lua</source>
+        <source main="main">https://github.com/Sruthin1234/soundsgoodman/raw/fd913202ce55bc7a828dfab0c51177ba380d8785/Example/Hello%20world.lua</source>
       </version>
     </reapack>
   </category>
+
+  <category name="UCIFY">
+    <reapack name="Sruthin1234_Add meta Marker and rename smart from ucsify SGM .lua" type="script" desc="Add meta marker and rename (UCIFY) - SGM">
+      <metadata>
+        <description><![CDATA[
+Adds a meta marker and performs smart renaming based on UCIFY logic.
+]]></description>
+      </metadata>
+      <version name="1.0" author="Sruthin1234" time="2025-11-25T00:00:00Z">
+        <source main="main">https://github.com/Sruthin1234/soundsgoodman/raw/fd913202ce55bc7a828dfab0c51177ba380d8785/UCIFY/Add%20meta%20Marker%20and%20rename%20smart%20from%20ucsify%20SGM%20.lua</source>
+      </version>
+    </reapack>
+
+    <reapack name="Sruthin1234_Inject metaddata fileds SGM  .lua" type="script" desc="Inject metadata fields (UCIFY) - SGM">
+      <metadata>
+        <description><![CDATA[
+Injects metadata fields into SGM according to UCIFY conventions.
+]]></description>
+      </metadata>
+      <version name="1.0" author="Sruthin1234" time="2025-11-25T00:00:00Z">
+        <source main="main">https://github.com/Sruthin1234/soundsgoodman/raw/fd913202ce55bc7a828dfab0c51177ba380d8785/UCIFY/Inject%20metaddata%20fileds%20SGM%20%20.lua</source>
+      </version>
+    </reapack>
+  </category>
+
   <metadata>
     <description><![CDATA[
 ReaPack index for the soundsgoodman repository.
+
+Contains scripts under Example and UCIFY categories:
+- Example/Hello world.lua
+- UCIFY/Add meta Marker and rename smart from ucsify SGM .lua
+- UCIFY/Inject metaddata fileds SGM  .lua
 
 Replace this repository description (shown in ReaPack's "About this repository") with your own README or documentation text.
 ]]></description>
